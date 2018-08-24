@@ -1,4 +1,6 @@
 arroz
+
 cenoura
 feijao preto
+
 carne
